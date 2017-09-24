@@ -1,0 +1,23 @@
+{
+  "name": "CSVParser",
+  "version": "1.0.0",
+  "summary": "A short description of CSVParser",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/pawankv89/CSVParser",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "pawankv89": "pawankv89@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/pawankv89/CSVParser.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CSVParser/Classes/**/*",
+  "public_header_files": "CSVParser/**/*.h"
+}
