@@ -23,4 +23,8 @@ Pawan Kumar pawankv89@gmail.com
 
 ## License
 
-CSVParser is available under the MIT license. See the LICENSE file for more info.
+This code is distributed under the terms and conditions of the [MIT license](LICENSE).
+
+## Change-log
+
+A brief summary of each this release can be found in the [CHANGELOG](CHANGELOG.mdown). 
