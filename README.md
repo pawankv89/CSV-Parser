@@ -1,6 +1,6 @@
-# CSVParser
+# CSV Parser
 
-CSVParser read your iOS app csv file without any line of code!!
+CSV Parser read your iOS app csv file without any line of code!!
 
 ## Example
 
